@@ -2,7 +2,7 @@
 - 👀 I’m interested in Exploring New Stuffs and Knowing Logics behind it. 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on new DS projects. 
-- 📫 Reach me at svignesh8397@gmail.com 
+- 📫 You can Reach me at svignesh8397@gmail.com 
 
 <!---
 Vigneshwaran-93/Vigneshwaran-93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
